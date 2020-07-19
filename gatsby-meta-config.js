@@ -2,11 +2,11 @@ module.exports = {
   title: `b-bok blog`,
   description: `Blog posted about ...`,
   author: `[b-bok]`,
-  introduction: `I explain with words and code. I explain with words and code. I explain with words and code.`,
+  introduction: `웹 개발을 꿈꾸고, 블로그를 운영하고, 깃허브를 시작한 개발뉴비입니다.`,
   siteUrl: `https://b-bok-dev-blog.netlify.app`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
-    github: ``, // Your GitHub account
+    github: `https://github.com/b-bok`, // Your GitHub account
     medium: ``, // Your Medium account
     facebook: ``, // Your Facebook account
     linkedin: ``, // Your LinkedIn account
