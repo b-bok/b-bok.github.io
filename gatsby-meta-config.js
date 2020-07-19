@@ -6,7 +6,7 @@ module.exports = {
   siteUrl: `https://b-bok-dev-blog.netlify.app`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
-    github: `https://github.com/b-bok`, // Your GitHub account
+    github: `b-bok`, // Your GitHub account
     medium: ``, // Your Medium account
     facebook: ``, // Your Facebook account
     linkedin: ``, // Your LinkedIn account
