@@ -1,7 +1,7 @@
 ---
-title: 'Category Test1'
+title: '개발 뉴비 첫번 째 마크다운 글쓰기'
 date: 2020-07-02 16:21:13
-category: 'category1'
+category: 'discovering'
 draft: false
 ---
 # 개발 뉴비 첫번 째 마크다운 글쓰기
