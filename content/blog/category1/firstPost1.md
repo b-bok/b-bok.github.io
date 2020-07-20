@@ -1,3 +1,9 @@
+---
+title: 'Category Test1'
+date: 2020-07-02 16:21:13
+category: 'category1'
+draft: false
+---
 # 개발 뉴비 첫번 째 마크다운 글쓰기
 
 ### 1. 마크다운 문서를 왜 쓰나요?
@@ -34,10 +40,15 @@
 > 출력 결과
 
 # head1
+
 ## head2
+
 ### head3
+
 #### head4
+
 ##### head5
+
 ###### head6
 
 
@@ -101,11 +112,12 @@ __ 언더바 두개도 볼드체__
 > 출력 결과
 
 1. 첫번 째
-	2. 개행도 가능
-3. 세번 째
+   2. 개행도 가능
+2. 세번 째
+
 * 검정 동그라미
-	+ 원 모양
-		- 네모 모양
+  + 원 모양
+    - 네모 모양
 
 
 
@@ -139,6 +151,7 @@ __ 언더바 두개도 볼드체__
 ---------------------
 
 *********************
+
 <hr/>
 
 **7. 이미지**
@@ -186,7 +199,6 @@ print(H)
 > 출력 결과
 
 ``` python(타이핑 하려는 언어를 적어줍니다!)
-
 H = "Hello World!"
 print(H)
 
@@ -202,3 +214,5 @@ print(H)
 
 [원본 블로그]([https://velog.io/@devseunggwan/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4Markdown-%EC%82%AC%EC%9A%A9%EB%B2%95-%EB%B0%8F-%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4-%EC%97%90%EB%94%94%ED%84%B0-%EB%A6%AC%EB%B7%B0#typora](https://velog.io/@devseunggwan/마크다운Markdown-사용법-및-마크다운-에디터-리뷰#typora))
 
+
+---
