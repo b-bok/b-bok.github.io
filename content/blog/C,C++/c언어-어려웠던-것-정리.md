@@ -1,7 +1,7 @@
 ---
 title: C언어 어려웠던 것 정리
 date: 2020-08-31 15:08:09
-category: computerscience
+category: C,C++
 draft: false
 ---
 
